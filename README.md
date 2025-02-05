@@ -28,4 +28,3 @@ O objetivo desse repositório é não só atender às necessidades do projeto em
 - Autenticação e controle de acesso usando tokens.
 - Integração com banco de dados **PostgreSQL** para persistência de dados.
 
-## Como Rodar o Projeto
